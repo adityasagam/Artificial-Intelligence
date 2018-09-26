@@ -1,6 +1,6 @@
 """
 @author 		Aditya Sagam
-@description	This class has programs to execute following route finding algorithms
+@description	This class has code to execute following route finding algorithms
 					1. Uniform Cost Search
 					2. A* search
 @date created	09-06-2018
