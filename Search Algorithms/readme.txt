@@ -13,7 +13,7 @@ Code Structure:
 	2. Informed Search - A* Search
 
 Instructions to run the code:
-1. Open the linux terminal and change directory to the location the root folder has been placed.
+1. Open the linux terminal and cd to the parent folder.
 2. Once inside the directory, execute the python code with arguments as follows:
 	a. Uninformed search
 		> python find_route.py find_route uninf <filename>.txt <Source> <Destination>
