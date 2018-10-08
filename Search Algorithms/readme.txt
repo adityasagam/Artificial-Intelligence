@@ -1,7 +1,3 @@
-Name: Aditya Shantilal Sagam
-UTA ID: 1001660179
-Programming Language Used: Python (2.4.3)
-
 Code Structure:
 1. The code is divided into 3 files:
 	a. find_route.py (main module)
