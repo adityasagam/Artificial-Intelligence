@@ -6,6 +6,7 @@ Code Structure:
      c. constant.py: Contains the constants used in the program.
 How to run the program:
     In bash, cd to the directory where the files are located. The file maxconnect4.py should be executed in the terminal to invoke the application.
+    
 a. For Interactive mode:
         
     >python maxconnect4.py interactive input1.txt <computer-next/human-next> <depth>
