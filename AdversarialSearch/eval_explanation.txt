@@ -1,0 +1,12 @@
+Eval function:
+1. Any combination of a single piece of a player and 3 zeroes gives 0.25 points in each combination of 4 numbers in a row
+    for ex 0001, 0010, 0100, 1000 give 0.25 points. Same goes for player 2
+2. Any combination of 2 pieces of a player and 2 zeroes in a group of 4 numbers gives 0.5 points
+    for ex. 0011, 1100, 0220 etc
+3. Any combination of 3 peices of a player and 1 zero in a group of 4 numbers gives 0.75 points
+    for ex. 2220, 1101 etc
+4. For each of the arrangements above the orientation can be vertical, horizontal or diagonal.
+5. A 4 in a row gives 1 point to the respective user (same as utility)
+6. The eval function now gives the difference of the eval scores achieved as a result of the above occurences of pieces.
+    For player 1: eval = player1 score - player2 score
+    For player 2: eval = player2 score - player1 score
