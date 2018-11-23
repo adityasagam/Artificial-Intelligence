@@ -1,4 +1,4 @@
-Title: This program is used to test entailment for any statement and negation of that statement in the wumpus world with some predefined rules to determine if its partially true, completely true, completely false or could be anything.
+Title: This program is used to test entailment for any statement and negation of that statement in the wumpus world with some predefined rules to determine if its partially true, completely true, completely false or both true and false.
 Assignment: https://omega.uta.edu/~gopikrishnav/classes/2018/fall/4308_5360/assmts/assmt7.html
 Programming Language: Python
 Structure:
