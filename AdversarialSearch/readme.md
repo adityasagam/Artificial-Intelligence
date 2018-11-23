@@ -4,9 +4,11 @@ Assignment: https://omega.uta.edu/~gopikrishnav/classes/2018/fall/4308_5360/assm
 
 Code Structure:
     The code is divided into 3 files:
+     
      a. maxconnect4.py: Handles initialization of MaxConnect4Game.py; reads files and commandline args and controls the mode of the game (interative / one-move)
      b. MaxConnect4Game.py: Contains all the logic for the game including playing the states (for computer i.e. AI), implementing the depth limited alpha-beta minimax version and also calculating all the scores for the players.
      c. constant.py: Contains the constants used in the program.
+
 How to run the program:
     In bash, cd to the directory where the files are located. The file maxconnect4.py should be executed in the terminal to invoke the application.
     
