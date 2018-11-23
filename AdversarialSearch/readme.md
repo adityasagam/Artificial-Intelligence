@@ -1,4 +1,7 @@
-This is an implementation of the maxConnect4 game between 2 players using the Minimax algorithmc with alpha-beta pruning and depth limited search using a heuristic.
+Title: Implementation of the maxConnect4 game between 2 players using the Minimax algorithmc with alpha-beta pruning and depth limited search using a heuristic.
+
+Assignment: https://omega.uta.edu/~gopikrishnav/classes/2018/fall/4308_5360/assmts/assmt4.html
+
 Code Structure:
     The code is divided into 3 files:
      a. maxconnect4.py: Handles initialization of MaxConnect4Game.py; reads files and commandline args and controls the mode of the game (interative / one-move)
