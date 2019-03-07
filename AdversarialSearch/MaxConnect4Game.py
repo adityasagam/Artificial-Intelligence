@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-
-# Written by Chris Conly based on C++
-# code provided by Vassilis Athitsos
 # Written to be Python 2.4 compatible for omega
 
 import copy
